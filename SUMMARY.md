@@ -2,6 +2,10 @@
 
 * [Rosie's LeetCode Notes](README.md)
 
-## 2022/2/7
+## Data Structure
 
-* [2166. Design Bitset](2022-2-7/2166.-design-bitset.md)
+* [2166. Design Bitset](data-structure/2166.-design-bitset.md)
+
+## Linked List
+
+* [2. Add Two Numbers](linked-list/2.-add-two-numbers.md)
