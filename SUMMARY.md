@@ -12,3 +12,4 @@
 * [2. Add Two Numbers](linked-list/2.-add-two-numbers.md)
 * [160. Intersection of Two Linked Lists](linked-list/160.-intersection-of-two-linked-lists.md)
 * [23. Merge k Sorted Lists](linked-list/23.-merge-k-sorted-lists.md)
+* [876. Middle of the Linked List](linked-list/876.-middle-of-the-linked-list.md)
