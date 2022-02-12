@@ -13,3 +13,7 @@
 * [160. Intersection of Two Linked Lists](linked-list/160.-intersection-of-two-linked-lists.md)
 * [23. Merge k Sorted Lists](linked-list/23.-merge-k-sorted-lists.md)
 * [876. Middle of the Linked List](linked-list/876.-middle-of-the-linked-list.md)
+
+## Array
+
+* [560. Subarray Sum Equals K](array/560.-subarray-sum-equals-k.md)
