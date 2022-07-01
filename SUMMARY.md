@@ -17,3 +17,7 @@
 ## Array
 
 * [560. Subarray Sum Equals K](array/560.-subarray-sum-equals-k.md)
+
+## Dynamic Programming
+
+* [Basic Idea](dynamic-programming/basic-idea.md)
