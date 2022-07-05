@@ -18,6 +18,10 @@
 
 * [560. Subarray Sum Equals K](array/560.-subarray-sum-equals-k.md)
 
+## Graph
+
+* [Basic](graph/basic.md)
+
 ## Dynamic Programming
 
-* [Basic Idea](dynamic-programming/basic-idea.md)
+* [Basic](dynamic-programming/basic.md)
